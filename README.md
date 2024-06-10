@@ -23,8 +23,8 @@ This is a simple alarm clock application built using vanilla JavaScript. The app
 
 ## Video Explanation
 
-[Link to Video Explanation](https://youtube.com/your-video-link)
+[Link to Video Explanation](https://drive.google.com/file/d/1x-B_yyx4S875WhQj9t99YXUFqz1VVRNr/view)
 
 ## Hosting
 
-The code is hosted on GitHub: [GitHub Repository](https://github.com/your-repo-link)
+The code is hosted on GitHub: [GitHub Repository](https://github.com/saurabhtiwaridev/alarm-clock/blob/master/index.html)
